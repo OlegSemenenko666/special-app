@@ -1,3 +1,4 @@
 (function(){
-    //some code
+    "name": "config"
+    "version": 2
 })():
